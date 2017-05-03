@@ -1,4 +1,4 @@
-# RunLittleWitch
+# Run Little Witch
 **INSTRUCTIONS:** Click the green "Clone or download" button.  Click "Download zip."  You should see that a file called RunLittleWitch-master.zip starts to download to your computer.  Once RunLittleWitch-master.zip has finished downloading, open it and extract RunLittleWitch-master to wherever you want.  <br>    <br>**FOR WINDOWS:** Once RunLittleWitch-master has been extracted, open it and double click RunLittleWitch.exe.
 <br>    **FOR MAC:** You're going to have to open and extract the contents of the file called RunLittleWitchForMac.zip which is inside the RunLittleWitch-master folder.  Once extracted, open the RunLittleWitchforMac folder and run RunLittleWitch.app.
 
