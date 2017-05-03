@@ -15,28 +15,28 @@ Platform assembly: D:\32-bit\RunLittleWitchforWindows\RunLittleWitch_Data\Manage
 Loading D:\32-bit\RunLittleWitchforWindows\RunLittleWitch_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\32-bit\RunLittleWitchforWindows\RunLittleWitch_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\32-bit\RunLittleWitchforWindows\RunLittleWitch_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.100 seconds
+- Completed reload, in  0.099 seconds
 Platform assembly: D:\32-bit\RunLittleWitchforWindows\RunLittleWitch_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\32-bit\RunLittleWitchforWindows\RunLittleWitch_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.905777 ms
+UnloadTime: 1.887209 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.074962 ms
+UnloadTime: 4.964345 ms
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 543.
-Total: 0.426666 ms (FindLiveObjects: 0.061629 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.310913 ms  DeleteObjects: 0.024098 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 544.
+Total: 0.299851 ms (FindLiveObjects: 0.028444 ms CreateObjectMapping: 0.015012 ms MarkObjects: 0.245333 ms  DeleteObjects: 0.010666 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.759703 ms
+UnloadTime: 0.702814 ms
 
-Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 350.
-Total: 2.578567 ms (FindLiveObjects: 0.072296 ms CreateObjectMapping: 0.015012 ms MarkObjects: 0.207407 ms  DeleteObjects: 2.283456 ms)
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 3.075950 ms (FindLiveObjects: 0.036345 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.281283 ms  DeleteObjects: 2.729481 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2158 -> priority: 1 
-  Thread -> id: 15c4 -> priority: 1 
-  Thread -> id: 2e20 -> priority: 1 
-  Thread -> id: 211c -> priority: 1 
+  Thread -> id: 29f0 -> priority: 1 
+  Thread -> id: 337c -> priority: 1 
+  Thread -> id: 2f6c -> priority: 1 
+  Thread -> id: de4 -> priority: 1 
